@@ -1,0 +1,10 @@
+.custom-margin {
+  margin-top: 20vh;
+}
+
+body {
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(18, 17, 18);
+}
