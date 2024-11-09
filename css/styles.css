@@ -2,6 +2,10 @@
   margin-top: 20vh;
 }
 
+.login {
+  text-align: center;
+}
+
 body {
   background-repeat: no-repeat;
   width: 100%;
