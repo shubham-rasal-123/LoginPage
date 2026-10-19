@@ -9,7 +9,7 @@ A clean, modern authentication UI built with HTML, CSS, Bootstrap, and Font Awes
 
 ## Preview
 
-![Project Screenshot](Screenshot1.png)
+![Project Screenshot](/image/Screenshot1.png)
 
 ## About
 
